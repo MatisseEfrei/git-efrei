@@ -74,3 +74,4 @@ Je suis un paragraphe en gras.
 | git restore | --staged | | Unstage un ou plusieurs fichiers |
 
 | git branch | -M | Créer ou renommer une branche de travail |
+| git merge | | permet de fusionner l'historique git de deux branches |
