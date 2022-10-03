@@ -75,3 +75,4 @@ Je suis un paragraphe en gras.
 
 | git branch | -M | Créer ou renommer une branche de travail |
 | git merge | | permet de fusionner l'historique git de deux branches |
+# Exercice
