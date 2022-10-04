@@ -1,6 +1,7 @@
 # Exemple pour le cours versioning de code - l'outil Git
 
 ## EFREI 03/10/2022
+<a href="https://media.istockphoto.com/photos/cheesy-pepperoni-pizza-picture-id938742222?k=20&m=938742222&s=612x612&w=0&h=X5AlEERlt4h86X7U7vlGz3bDaDDGQl4C3MuU99u2ZwQ="><img src="https://media.istockphoto.com/photos/cheesy-pepperoni-pizza-picture-id938742222?k=20&m=938742222&s=612x612&w=0&h=X5AlEERlt4h86X7U7vlGz3bDaDDGQl4C3MuU99u2ZwQ="></a>
 
 
 
@@ -76,10 +77,15 @@ Je suis un paragraphe en gras.
 | git branch | -M | Créer ou renommer une branche de travail |
 | git merge | | permet de fusionner l'historique git de deux branches |
 # EXERCICE
-nouvelle branche exo1 crée \
-modifications éfféctuées dans README.md \
 
 Modification depuis la branche exo1 \
 
 Modification Readme depuis main \
 
+modifications éfféctuées dans README.md \
+pasta la vista
+
+test nasa
+
+baou
+EXO FINISH
