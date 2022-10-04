@@ -1,6 +1,7 @@
 # Exemple pour le cours versioning de code - l'outil Git
 
 ## EFREI 03/10/2022
+<a href="https://media.istockphoto.com/photos/cheesy-pepperoni-pizza-picture-id938742222?k=20&m=938742222&s=612x612&w=0&h=X5AlEERlt4h86X7U7vlGz3bDaDDGQl4C3MuU99u2ZwQ="><img src="https://media.istockphoto.com/photos/cheesy-pepperoni-pizza-picture-id938742222?k=20&m=938742222&s=612x612&w=0&h=X5AlEERlt4h86X7U7vlGz3bDaDDGQl4C3MuU99u2ZwQ="></a>
 
 
 
@@ -30,7 +31,6 @@ Je suis un paragraphe en gras.
 | --------- | ----------- |
 | Header    | Title       |
 | Paragraph | Text        |
-
 ## Résumé matinée
 
 
@@ -64,7 +64,7 @@ Modification Readme depuis main \
 modifications éfféctuées dans README.md \
 pasta la vista
 
-test
+test nasa
 
 baou
 EXO FINISH
