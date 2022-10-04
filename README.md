@@ -77,4 +77,10 @@ Je suis un paragraphe en gras.
 | git merge | | permet de fusionner l'historique git de deux branches |
 # EXERCICE
 nouvelle branche exo1 crée \
+<<<<<<< HEAD
 modifications éfféctuées dans README.md \
+=======
+modifications éfféctuées dans README.md \
+pasta la vista
+>>>>>>> 9b1a86666d63f9c583f7da3ca39edcda0a1f7908
+test
