@@ -76,9 +76,13 @@ Je suis un paragraphe en gras.
 | git branch | -M | Créer ou renommer une branche de travail |
 | git merge | | permet de fusionner l'historique git de deux branches |
 # EXERCICE
-nouvelle branche exo1 crée \
-modifications éfféctuées dans README.md \
 
 Modification depuis la branche exo1 \
 
 Modification Readme depuis main \
+
+modifications éfféctuées dans README.md \
+pasta la vista
+
+test
+
