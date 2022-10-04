@@ -29,13 +29,9 @@ Je suis un paragraphe en gras.
 
 
 | Syntax    | Description |
-
 | --------- | ----------- |
-
 | Header    | Title       |
-
 | Paragraph | Text        |
-
 ## Résumé matinée
 
 
